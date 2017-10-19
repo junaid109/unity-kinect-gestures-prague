@@ -1,0 +1,16 @@
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\obj\Debug\KinectApp.csprojResolveAssemblyReference.cache
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\obj\Debug\MainWindow.baml
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\obj\Debug\MainWindow.g.cs
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\obj\Debug\App.g.cs
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\obj\Debug\KinectApp_MarkupCompile.cache
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\obj\Debug\KinectApp.g.resources
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\obj\Debug\KinectApp.Properties.Resources.resources
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\obj\Debug\KinectApp.csproj.GenerateResource.Cache
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\obj\Debug\KinectApp.csproj.CoreCompileInputs.cache
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\bin\Debug\KinectApp.exe.config
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\bin\Debug\KinectApp.exe
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\bin\Debug\KinectApp.pdb
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\bin\Debug\Microsoft.Gestures.xml
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\bin\Debug\Microsoft.Gestures.Endpoint.xml
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\obj\Debug\KinectApp.exe
+C:\Users\junai\Documents\Github Projects\unity-kinect-gestures-prague\KinectApp\KinectApp\obj\Debug\KinectApp.pdb
